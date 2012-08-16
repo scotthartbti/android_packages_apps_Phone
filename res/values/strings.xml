@@ -1608,5 +1608,8 @@
         <item>dismiss the call</item>
     </string-array>
 
-    <!-- CYANOGENMOD ADDITIONS END -->
+    <!-- My Phone Number field -->
+    <string name="phone_number_label">My phone number</string>
+    <string name="phone_number_summary">Set the phone number for this device</string>
+
 </resources>
