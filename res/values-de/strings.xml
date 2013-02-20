@@ -661,10 +661,6 @@
     <string name="vibrate_45">Jede Minute vibrieren</string>
     <string name="vibrate_45_sum">Während ausgehender Anrufe 15 Sekunden vor dem Ende jeder vollen Minute vibrieren</string>
 
-    <!-- Noise suppression -->
-    <string name="noise_suppression_title">Lärmunterdrückung</string>
-    <string name="noise_suppression_summary">Lärmunterdrückung für Anrufe aktivieren</string>
-
     <!-- Show ssn label -->
     <string name="show_ssn_label">Ereignis-Benachrichtigung</string>
     <string name="show_ssn_summary">Benachrichtigungen für verschiedene Anrufereignisse anzeigen</string>
