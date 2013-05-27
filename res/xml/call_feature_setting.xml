@@ -160,6 +160,13 @@
       android:defaultValue="true" />
 
   <CheckBoxPreference
+      android:key="transparent_in_call_widget"
+      android:title="@string/transparent_in_call_widget"
+      android:summary="@string/transparent_in_call_widget_summary"
+      android:persistent="true"
+      android:defaultValue="false" />
+
+  <CheckBoxPreference
       android:key="button_dialpad_autocomplete"
       android:title="@string/dial_pad_autocomplete"
       android:persistent="false"
