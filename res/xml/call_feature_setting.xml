@@ -48,6 +48,12 @@
         android:key="pref_advanced_settings"
         android:title="@string/advanced_setting">
 
+	<CheckBoxPreference
+            android:key="button_callback"
+            android:title="@string/callback"
+            android:persistent="true"
+            android:summary="@string/callback_sum" />
+
         <CheckBoxPreference
             android:key="button_vibrate_outgoing"
             android:title="@string/vibrate_outgoing"
