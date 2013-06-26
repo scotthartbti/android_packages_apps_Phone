@@ -444,6 +444,9 @@ public class PhoneUtils {
         static boolean isBlacklistRegexEnabled(Context context) {
             return getPrefs(context).getBoolean("button_blacklist_regex", false);
         }
+        static boolean isDirectCallBackEnabled(Context context) {
+            return getPrefs(context).getBoolean("button_callback", false);
+        }
         private static SharedPreferences getPrefs(Context context) {
             return PreferenceManager.getDefaultSharedPreferences(context);
         }
