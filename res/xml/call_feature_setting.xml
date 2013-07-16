@@ -55,6 +55,13 @@
             android:summary="@string/callback_sum" />
 
         <CheckBoxPreference
+            android:key="bg_incall_screen"
+            android:title="@string/bg_incall"
+            android:persistent="true"
+            android:defaultValue="false"
+            android:summary="@string/bg_incall_summary"/>
+
+        <CheckBoxPreference
             android:key="button_vibrate_outgoing"
             android:title="@string/vibrate_outgoing"
             android:persistent="true" />
