@@ -1662,4 +1662,9 @@
     <string name="description_target_callback">Hang up and call back</string>
     <string name="callback">Hang up and call back</string>
     <string name="callback_sum">Enable call back feature directly from incomming call screen</string>
+
+    <!-- Incoming call in background -->
+    <string name="bg_incall">Incoming call in background</string>
+    <string name="bg_incall_summary">Keep incoming call UI in background when screen is on, show notification and play ringtone only</string>
+
 </resources>
