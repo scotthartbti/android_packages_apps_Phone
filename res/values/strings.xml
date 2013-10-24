@@ -1498,11 +1498,6 @@
     <string name="transparent_in_call_widget">Transparent in call screen</string>
     <string name="transparent_in_call_widget_summary">Shows the complete contact picture on incomming calls</string>
 
-    <!-- Hang up and dial back from IncallScreen -->
-    <string name="description_target_callback">Hang up and call back</string>
-    <string name="callback">Hang up and call back</string>
-    <string name="callback_sum">Enable call back feature directly from incoming call screen</string>
-
     <!-- Incoming call in background -->
     <string name="bg_incall">Incoming call in background</string>
     <string name="bg_incall_summary">Keep incoming call UI in background when screen is on, show notification and play ringtone only</string>

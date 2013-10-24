@@ -436,9 +436,6 @@ public class PhoneUtils {
         static boolean transparentInCallWidget(Context context) {
             return getPrefs(context).getBoolean("transparent_in_call_widget", false);
         }
-        static boolean isDirectCallBackEnabled(Context context) {
-            return getPrefs(context).getBoolean("button_callback", false);
-        }
 
         /* voice quality preferences */
         static String getVoiceQualityParameter(Context context) {
